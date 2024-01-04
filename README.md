@@ -13,8 +13,6 @@
 
 - 📫 Comment me contacter : **ahmed.tiba.1993@gmail.com**
 
-- ⚡ Fun fact **Rendre l'apprentissage amusant**
-
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed.tiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ahmed-tiba" height="30" width="40" /></a>
