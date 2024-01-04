@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is TIBA Ahmed
 #### A passionate Software Engineer Full Stack Springboot + Angular
-![A passionate Software Engineer Full Stack Springboot + Angular]
+A passionate Software Engineer Full Stack Springboot + Angular
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
