@@ -7,9 +7,9 @@
 
 - 🔭 Actuellement, je travaille sur **Chifco**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [GitHub](https://github.com/your-github-username)
+- 👨‍💻 Tous mes projets sont disponibles sur [GitHub](https://github.com/ahmedtiba1993)
 
-- 📝 J'écris régulièrement des articles sur [Mon Site Web](https://your-website.com)
+- 📝 J'écris régulièrement des articles sur [Mon Site Web](https://ahmedtiba1993.github.io)
 
 - 💬 Posez-moi des questions sur **Spring, Java, Docker, Angular, Testing, ....**
 
