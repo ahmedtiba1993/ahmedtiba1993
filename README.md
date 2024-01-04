@@ -9,11 +9,9 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [GitHub](https://github.com/ahmedtiba1993)
 
-- 📝 J'écris régulièrement des articles sur [Mon Site Web](https://ahmedtiba1993.github.io)
+- 💬 Posez-moi des questions sur **Spring Boot, Java, MySql, Angular, Testing, ....**
 
-- 💬 Posez-moi des questions sur **Spring, Java, Docker, Angular, Testing, ....**
-
-- 📫 Comment me contacter : **votre-email@example.com**
+- 📫 Comment me contacter : **ahmed.tiba.1993@gmail.com**
 
 - ⚡ Fun fact **Rendre l'apprentissage amusant**
 
