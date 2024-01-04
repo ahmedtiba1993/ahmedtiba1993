@@ -15,11 +15,16 @@
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmedtiba1993/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ahmed-tiba" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/your-stackoverflow-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-id" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed.tiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed.tiba" height="30" width="40" /></a>
-<a href="https://www.youtube.com/your-youtube-channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="your-youtube-channel" height="30" width="40" /></a>
-<a href="https://discord.gg/your-discord-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="your-discord-id" height="30" width="40" /></a>
+<h3 align="left">Connectez-vous avec moi :</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmedtiba1993/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ahmed-tiba" height="30" width="40" /></a>
+  <!-- Remplacez l'URL de votre profil Facebook -->
+  <a href="https://www.facebook.com/ahmed.tiba" target="blank"><img align="center" src="URL_vers_icone_facebook" alt="ahmed.tiba" height="30" width="40" /></a>
+  <!-- Remplacez l'URL de votre profil Instagram -->
+  <a href="https://instagram.com/ahmed.tiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed.tiba" height="30" width="40" /></a>
+  <!-- Remplacez l'URL de votre profil WhatsApp -->
+  <a href="https://wa.me/21650982867" target="blank"><img align="center" src="URL_vers_icone_whatsapp" alt="WhatsApp" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Langages et Outils :</h3>
