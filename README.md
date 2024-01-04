@@ -1,12 +1,23 @@
-### Hi there 👋, my name is TIBA Ahmed
-#### A passionate Software Engineer Full Stack Springboot + Angular
-A passionate Software Engineer Full Stack Springboot + Angular
+# Salut 👋, je suis TIBA Ahmed
 
+## À propos de moi
+Je suis un ingénieur logiciel Full Stack passionné, spécialisé dans le développement avec Springboot et Angular. Actuellement, je travaille sur Chifco.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## Compétences
+- VUE JS
+- REACT
+- JS
+- HTML
+- CSS
 
-- 🔭 I’m currently working on Chifco 
+## Réseaux sociaux
+- [LinkedIn](https://www.linkedin.com/in/ahmed.tiba/)
+- [Facebook](https://www.facebook.com/ahmed.tiba)
+- [Instagram](https://www.instagram.com/ahmed.tiba/)
+- [Twitter](https://twitter.com/ahmed.tiba)
+- [Site Web](ahmedtiba1993.github.io)
 
+## GitHub
+- Jetez un œil à mon GitHub : [Ahmed Tiba sur GitHub](https://github.com/ahmedtiba1993)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ahmed.tiba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahmed.tiba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmed.tiba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ahmed.tiba)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ahmedtiba1993.github.io)  
-
+N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles. Merci de visiter mon profil !
