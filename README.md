@@ -1,9 +1,9 @@
 <h1 align="center">Salut 👋, je suis TIBA Ahmed</h1>
 <h3 align="center">Un ingénieur logiciel Full Stack passionné, spécialisé dans Springboot et Angular</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtiba1993&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtiba1993" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-github-username" alt="your-github-username" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedtiba1993" alt="ahmedtiba1993" /></a> </p>
 
 - 🔭 Actuellement, je travaille sur **Chifco**
 
