@@ -1,23 +1,34 @@
-# Salut 👋, je suis TIBA Ahmed
+<h1 align="center">Salut 👋, je suis TIBA Ahmed</h1>
+<h3 align="center">Un ingénieur logiciel Full Stack passionné, spécialisé dans Springboot et Angular</h3>
 
-## À propos de moi
-Je suis un ingénieur logiciel Full Stack passionné, spécialisé dans le développement avec Springboot et Angular. Actuellement, je travaille sur Chifco.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
 
-## Compétences
-- <img src="https://vuejs.org/images/logo.png" alt="VUE JS" height="30"/> [VUE JS](https://vuejs.org/)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="REACT" height="30"/> [REACT](https://reactjs.org/)
-- <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="JS" height="30"/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML" height="30"/> [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- <img src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS" height="30"/> [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=your-github-username" alt="your-github-username" /></a> </p>
 
-## Réseaux sociaux
-- [LinkedIn](https://www.linkedin.com/in/ahmed.tiba/)
-- [Facebook](https://www.facebook.com/ahmed.tiba/)
-- [Instagram](https://www.instagram.com/ahmed.tiba/)
-- [Twitter](https://twitter.com/ahmed.tiba/)
-- [Site Web](ahmedtiba1993.github.io)
+- 🔭 Actuellement, je travaille sur **Chifco**
 
-## GitHub
-- Jetez un œil à mon GitHub : [Ahmed Tiba sur GitHub](https://github.com/ahmedtiba1993)
+- 👨‍💻 Tous mes projets sont disponibles sur [GitHub](https://github.com/your-github-username)
 
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de co
+- 📝 J'écris régulièrement des articles sur [Mon Site Web](https://your-website.com)
+
+- 💬 Posez-moi des questions sur **Spring, Java, Docker, Angular, Testing, ....**
+
+- 📫 Comment me contacter : **votre-email@example.com**
+
+- ⚡ Fun fact **Rendre l'apprentissage amusant**
+
+<h3 align="left">Connectez-vous avec moi :</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ahmed.tiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="ahmed-tiba" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/your-stackoverflow-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-id" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmed.tiba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed.tiba" height="30" width="40" /></a>
+<a href="https://www.youtube.com/your-youtube-channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="your-youtube-channel" height="30" width="40" /></a>
+<a href="https://discord.gg/your-discord-id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="your-discord-id" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Langages et Outils :</h3>
+<p align="left">
+<!-- Ajoutez ici les balises des logos avec les liens d'origine -->
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="your-github-username" /></p>
